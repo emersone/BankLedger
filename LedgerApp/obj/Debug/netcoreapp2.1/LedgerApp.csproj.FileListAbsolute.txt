@@ -1,0 +1,11 @@
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\bin\Debug\netcoreapp2.1\LedgerApp.deps.json
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\bin\Debug\netcoreapp2.1\LedgerApp.runtimeconfig.json
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\bin\Debug\netcoreapp2.1\LedgerApp.runtimeconfig.dev.json
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\bin\Debug\netcoreapp2.1\LedgerApp.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\bin\Debug\netcoreapp2.1\LedgerApp.pdb
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\obj\Debug\netcoreapp2.1\LedgerApp.csprojAssemblyReference.cache
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\obj\Debug\netcoreapp2.1\LedgerApp.csproj.CoreCompileInputs.cache
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\obj\Debug\netcoreapp2.1\LedgerApp.AssemblyInfoInputs.cache
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\obj\Debug\netcoreapp2.1\LedgerApp.AssemblyInfo.cs
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\obj\Debug\netcoreapp2.1\LedgerApp.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerApp\obj\Debug\netcoreapp2.1\LedgerApp.pdb

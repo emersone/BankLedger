@@ -1,0 +1,17 @@
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\LedgerAppTest.deps.json
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\LedgerAppTest.runtimeconfig.json
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\LedgerAppTest.runtimeconfig.dev.json
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\LedgerAppTest.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\LedgerAppTest.pdb
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\LedgerApp.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\bin\Debug\netcoreapp2.1\LedgerApp.pdb
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\obj\Debug\netcoreapp2.1\LedgerAppTest.csprojAssemblyReference.cache
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\obj\Debug\netcoreapp2.1\LedgerAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\obj\Debug\netcoreapp2.1\LedgerAppTest.AssemblyInfoInputs.cache
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\obj\Debug\netcoreapp2.1\LedgerAppTest.AssemblyInfo.cs
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\obj\Debug\netcoreapp2.1\LedgerAppTest.csproj.CopyComplete
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\obj\Debug\netcoreapp2.1\LedgerAppTest.dll
+C:\Users\Ellie\Desktop\LedgerWebApp\LedgerAppTest\obj\Debug\netcoreapp2.1\LedgerAppTest.pdb
