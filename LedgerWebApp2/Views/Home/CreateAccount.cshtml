@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "CreateAccount";
+}
+
+@using (Html.BeginForm("Login", "Home", FormMethod.Post))
+{
+    <div>Please enter the below information to create an account with us.</div><br />
+
+    <label>Username: </label>@Html.TextBoxFor(model => model.username)
+    <label>Password: </label>@Html.TextBoxFor(model => model.password)<br />
+
+    @Html.ValidationMessageFor(model => model.username)
+    @Html.ValidationMessageFor(model => model.password)
+
+    <button type="submit">Login</button>
+}
+

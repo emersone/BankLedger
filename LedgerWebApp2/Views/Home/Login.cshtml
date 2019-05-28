@@ -1,0 +1,30 @@
+﻿@model LedgerWebApp.Models.LoginModel
+
+@{
+    ViewBag.Title = "User Login";
+}
+
+<h2>User Login</h2>
+
+
+@using (Html.BeginForm("Login", "Home", FormMethod.Post))
+{
+
+    <label>Username: </label>@Html.TextBoxFor(model => model.username)
+    <label>Password: </label>@Html.TextBoxFor(model => model.password)<br />
+
+    @Html.ValidationMessageFor(model => model.username)
+    @Html.ValidationMessageFor(model => model.password)
+
+    <button type="submit">Login</button>
+}
+
+<div>
+    <br />
+    Don't have an account with us?   <button type="button">Create Account</button>
+
+</div>
+
+
+
+
