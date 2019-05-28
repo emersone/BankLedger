@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace LedgerWebApp.Models
+namespace LedgerWebApp2.Models
 {
     public class LoginModel
     {

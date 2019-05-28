@@ -1,4 +1,4 @@
-﻿@model LedgerWebApp.Models.LoginModel
+﻿@model LedgerWebApp2.Models.LoginModel
 
 @{
     ViewBag.Title = "User Login";
@@ -21,9 +21,12 @@
 
 <div>
     <br />
-    Don't have an account with us?   <button type="button">Create Account</button>
+    Don't have an account with us?   <button onclick="window.location.href = '/Home/CreateAccount';" type="button">Create Account</button>
 
 </div>
+
+<p>@ViewBag.LoginError</p>
+
 
 
 

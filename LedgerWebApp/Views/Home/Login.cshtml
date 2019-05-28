@@ -1,0 +1,30 @@
+﻿@model LedgerWebApp.Models.BankModel
+
+@{
+    ViewBag.Title = "User Login";
+}
+
+<h2>User Login</h2>
+
+
+@using (Html.BeginForm("/", "Home", FormMethod.Post))
+{
+    
+    <label>Username: </label>@Html.TextBoxFor(model => model.username)
+    <label>Password: </label>@Html.TextBoxFor(model => model.password)<br /><br />
+    <label>First Name: </label>@Html.TextBoxFor(model => model.firstName)
+    <label>Last Name: </label>@Html.TextBoxFor(model => model.lastName)<br /><br />
+
+    @Html.ValidationMessageFor(model => model.username)
+    @Html.ValidationMessageFor(model => model.password)
+    @Html.ValidationMessageFor(model => model.firstName)
+    @Html.ValidationMessageFor(model => model.lastName)
+
+    <button type="submit">Login</button>
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

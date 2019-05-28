@@ -1,7 +1,16 @@
-﻿
+﻿@model LedgerWebApp2.Models.RecordTransactionModel
+
 @{
     ViewData["Title"] = "RecordDeposit";
 }
 
 <h2>RecordDeposit</h2>
 
+@using (Html.BeginForm("RecordDeposit", "Home", FormMethod.Post))
+{
+
+    <label>Amount: </label>@Html.TextBoxFor(model => model.Amount)<br>
+
+    @Html.ValidationMessageFor(model => model.Amount)
+    <button type="submit">Record Deposit</button>
+}

@@ -15,4 +15,10 @@
     <ProjectReference Include="..\LedgerApp\LedgerApp.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Views\Home\RecordDeposit.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+  </ItemGroup>
+
 </Project>

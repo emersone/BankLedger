@@ -1,18 +1,25 @@
-﻿
+﻿@model LedgerWebApp2.Models.CreateAccountModel
+
 @{
     ViewData["Title"] = "CreateAccount";
 }
 
-@using (Html.BeginForm("Login", "Home", FormMethod.Post))
+@using (Html.BeginForm("CreateAccount", "Home", FormMethod.Post))
 {
     <div>Please enter the below information to create an account with us.</div><br />
 
     <label>Username: </label>@Html.TextBoxFor(model => model.username)
     <label>Password: </label>@Html.TextBoxFor(model => model.password)<br />
+    <label>First Name: </label>@Html.TextBoxFor(model => model.firstName)
+    <label>Last Name: </label>@Html.TextBoxFor(model => model.lastName)<br />
 
     @Html.ValidationMessageFor(model => model.username)
     @Html.ValidationMessageFor(model => model.password)
+    @Html.ValidationMessageFor(model => model.firstName)
+    @Html.ValidationMessageFor(model => model.lastName)
 
-    <button type="submit">Login</button>
+    <button type="submit">Create Account</button>
+
+    <p>@ViewBag.AccountCreationError</p>
 }
 

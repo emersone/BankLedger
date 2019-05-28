@@ -5,3 +5,7 @@
 
 <h2>ViewHistory</h2>
 
+@foreach (var transaction in ViewBag.TransactionHistory)
+{
+    <span> @transaction </span> <br />
+}
