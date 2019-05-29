@@ -31,7 +31,7 @@ Open Git Bash, and then type:
 ```
 git clone https://github.com/emersone/BankLedger.git
 ```
-Press Enter and your the clone should be created.
+Press Enter and the clone should be created.
 
 
 ## Running the program
