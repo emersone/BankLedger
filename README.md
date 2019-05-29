@@ -22,9 +22,16 @@ This is really not the best solution or best practice. Ideally, you would have a
 
 ## Prerequisites
 
-The easiest way to run these program is through Visual Studio. 
+The easiest way to run these program is through Visual Studio: https://visualstudio.microsoft.com/downloads/
 
-You can download it here: https://visualstudio.microsoft.com/downloads/
+You will also need to get the code from this Github repository.
+
+Open Git Bash, and then type:
+
+```
+git clone https://github.com/emersone/BankLedger.git
+```
+Press Enter and your the clone should be created.
 
 
 ## Running the program
@@ -33,14 +40,14 @@ You can download it here: https://visualstudio.microsoft.com/downloads/
 2. Clone the repository.
 3. Open Visual Studio. Go to File-->Open-->Project Solution and open LedgerWebApp.sln. 
 
-To Run the Console App:
+###To Run the Console App:
 
 1. Go to the taskbar up top and find the green button. The dropdown menu to the left of the green arrow indicates the project you are on. Select LedgerApp.
 2. Next, click on the green arrow to run the program.
 3. The program should compile and a command line interface should appear.
 4. You will need to create an account to fully test functionality.
 
-To Run the Web App:
+###To Run the Web App:
 
 1. Go to the taskbar up top and find the green button. The dropdown menu to the left of the green arrow indicates the project you are on. Select LedgerWebApp2.
 2. Next, click on the green arrow to run the program. 
