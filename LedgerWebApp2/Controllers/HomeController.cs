@@ -187,7 +187,7 @@ namespace LedgerWebApp2.Controllers
         {
             //Check that user's account exists in Account dictionary.
             //Return false if it is not found.
-            if (!accountDict.ContainsKey(username))
+            if (username == null || !accountDict.ContainsKey(username))
             {
                 return false;
             }
